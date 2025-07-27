@@ -5,9 +5,29 @@ A job selection system designed specifically for QBCore servers. Players can int
 
 ### Preview
 
-| ![](https://i.imgur.com/SajkCMR.png) | ![](https://i.imgur.com/YTDoPiW.png) |
-|----------------|----------------|
-| ![](link3.png) | ![](link4.png) |
+<table>
+  <tr>
+    <td align="center">
+      <strong>Job Selection</strong><br>
+      <img src="https://i.imgur.com/SajkCMR.png" width="300">
+    </td>
+    <td align="center">
+      <strong>Job Info View</strong><br>
+      <img src="https://i.imgur.com/YTDoPiW.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Job Tutorial</strong><br>
+      <img src="link3.png" width="300">
+    </td>
+    <td align="center">
+      <strong>Notification System</strong><br>
+      <img src="link4.png" width="300">
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🛠️ Installation
