@@ -2,33 +2,11 @@
 
 A job selection system designed specifically for QBCore servers. Players can interact with an NPC to browse and select from a list of available jobs. Fully compatible with both `ox_lib` and `qb`.
 
-
-### Preview
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Job Selection</strong><br>
-      <img src="https://i.imgur.com/SajkCMR.png" width="300">
-    </td>
-    <td align="center">
-      <strong>Job Info View</strong><br>
-      <img src="https://i.imgur.com/YTDoPiW.png" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Job Tutorial</strong><br>
-      <img src="link3.png" width="300">
-    </td>
-    <td align="center">
-      <strong>Notification System</strong><br>
-      <img src="link4.png" width="300">
-    </td>
-  </tr>
-</table>
+<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/b72c56b1-a0b5-4f9e-870b-839082731b25" />
 
 
+### YouTube Preview
+https://youtu.be/CmEO9HqPNRY
 
 ## 🛠️ Installation
 
