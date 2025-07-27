@@ -5,7 +5,7 @@ A job selection system designed specifically for QBCore servers. Players can int
 
 ### Preview
 
-| ![](https://imgur.com/a/dEUngvj.png) | ![](https://imgur.com/a/0WQOdu0.png) |
+| ![](https://i.imgur.com/SajkCMR.png) | ![](https://i.imgur.com/YTDoPiW.png) |
 |----------------|----------------|
 | ![](link3.png) | ![](link4.png) |
 
