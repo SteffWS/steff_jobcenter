@@ -7,7 +7,8 @@ description 'Advanced QB Job Center'
 version '1.0.0'
 
 shared_scripts {
-    '@qb-core/import.lua',
+    -- '@qb-core/import.lua',
+    '@ox_lib/init.lua',
     'locales/*.lua',
     'config.lua'
 }
