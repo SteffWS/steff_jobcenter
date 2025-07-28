@@ -10,27 +10,6 @@ CreateThread(
     end
 )
 
-CreateThread(function()
-    local currentVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
-    local checkURL = 'https://raw.githubusercontent.com/SteffWS/steff_jobcenter/refs/heads/main/version.txt' -- Replace this
-
-    PerformHttpRequest(checkURL, function(statusCode, response, headers)
-        if not response or response == '' then
-            print('^1[steff_jobcenter] Version check failed: No response.^0')
-            return
-        end
-
-        local latestVersion = response:match("^%s*(.-)%s*$") -- trim
-        if latestVersion == currentVersion then
-            print('^2[steff_jobcenter] You are running the latest version (' .. currentVersion .. ').^0')
-        else
-            print('^3[steff_jobcenter] A new version is available!^0')
-            print('^3[steff_jobcenter] Current: ' .. currentVersion .. ', Latest: ' .. latestVersion .. '^0')
-            print('^3[steff_jobcenter] Download it at: https://github.com/SteffWS/steff_jobcenter^0')
-        end
-    end, 'GET')
-end)
-
 local QBCore = exports["qb-core"]:GetCoreObject()
 
 local webhookURL = Config.WebhookURL or ""
