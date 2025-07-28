@@ -4,6 +4,9 @@ A job selection system designed specifically for QBCore servers. Players can int
 
 <img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/b72c56b1-a0b5-4f9e-870b-839082731b25" />
 
+[https://imgur.com/a/gvqfPLg.png](https://imgur.com/JF55ejC)
+
+
 
 ### YouTube Preview
 https://youtu.be/CmEO9HqPNRY
