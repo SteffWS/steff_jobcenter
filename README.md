@@ -2,7 +2,7 @@
 
 A job selection system designed specifically for QBCore servers. Players can interact with an NPC to browse and select from a list of available jobs. Fully compatible with both `ox_lib` and `qb`.
 
-https://imgur.com/Ft0vy24.png
+<img width="1536" height="1024" alt="job_center-preview" src="https://github.com/user-attachments/assets/eed6d727-a07c-44c1-a34e-45dfee70d385" />
 
 ### YouTube Preview
 https://youtu.be/CmEO9HqPNRY
