@@ -33,5 +33,7 @@ ensure steff_jobcenter
 If you like this script, consider giving the repository a ⭐️ - it lets me know you like it!
 
 ## 🎯 SEO
-
 qbcore, jobcenter, ox_lib, ox_target, qb-target, fivem, roleplay, jobs, job menu, job system, free, progress bars, animations, notifications, ox_notify, server validation, cooldown, ped interaction, customizable config, security, exploits prevention, player experience, smooth UI, interaction, npc, ped, job switching, qbcore notifications, progress animations, context menu, fivem script, job selection, roleplay economy, job cooldown, server-side, easy install, comprehensive, flexible config, professional code, secure script, custom jobs, delivery job, mining job, ox_lib progress, ox_lib context, ox_lib animations, qbcore jobs, job center script, game server, gaming, multiplayer, scripting, lua script, qbcore framework
+
+## 🛠️ Need help? Join my Discord server!
+https://discord.gg/jvS6SbtbAm
