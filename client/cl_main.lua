@@ -270,12 +270,14 @@ function openDetailMenu(idx)
                 TriggerServerEvent("jobcenter:serverSetJob", job.jobName)
             end
         }
-        opts[#opts + 1] = {
-            icon = "fa-solid fa-arrow-left",
-            title = "Go Back",
-            onSelect = openMainMenu
-        }
-        ox_lib:registerContext({id = "job_center_detail_" .. idx, title = job.label, options = opts})
+        ox_lib:registerContext({
+        id     = "job_center_detail_" .. idx,
+        title  = job.label,
+        -- point back to the main menu so ox_lib draws the back-arrow
+        menu   = "job_center_main",
+        onBack = openMainMenu,
+        options = opts
+        })
         ox_lib:showContext("job_center_detail_" .. idx)
     end
 end
